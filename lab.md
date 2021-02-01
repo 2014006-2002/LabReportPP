@@ -1,13 +1,12 @@
-## Report
+##              Lab Report
 
 # Programming for Problem Solving Laboratory
 
-by
 
-## Hardeep Singh Rai
-### Class Roll No.: 2014xyx
+## Submitted by: Amitoj Singh
+### Class Roll No.: 2014006
 ### Branch: Civil Engineering
-### Batch: 2020-23
+### Batch: 2020-24
 ### Session: Odd Semester 2020-21
 
 ## Submitted to: Prof. H. S. Rai
